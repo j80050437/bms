@@ -33,4 +33,4 @@ To run the Barangay Management System locally, you will need:
    First, clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/barangay-management-system.git
+   git clone [https://github.com/yourusername/barangay-management-system.git](https://github.com/j80050437/bms.git)
